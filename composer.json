@@ -1,0 +1,10 @@
+{
+    "name": "koolreport/jsondoc",
+    "description": "JSON Document",
+    "keywords": ["json", "json document"],
+    "license": "MIT",
+    "type": "project",
+    "repositories":[
+        {"type":"composer","url":"https://repo.koolreport.com"}
+    ]
+}
